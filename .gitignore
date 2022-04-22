@@ -1,0 +1,8 @@
+# Ignore basic P7COM development workspace
+no_deploy/
+node_modules/
+libTest/
+nodeBugReport/
+research/
+package-lock.json
+test.js
